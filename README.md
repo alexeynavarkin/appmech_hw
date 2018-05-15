@@ -1,7 +1,7 @@
 # Application mechanics homework
----
+
 ## For developers
----
+
 ### Rules
 * Follow directory layout
 
@@ -26,7 +26,6 @@
 ## TODO
 _Place here to remaind yourself and let other understand amount of work_
 
----
 ### Task 1
 ### Task 2
 ### Task 3
