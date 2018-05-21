@@ -26,7 +26,7 @@
 ## TODO
 _Place here to remaind yourself and let other understand amount of work_
 
-### Task 1
+### Task 1 - Essentially needed to insert aleshas' demo video
 ### Task 2
 ### Task 3
 ### Task 4
